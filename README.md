@@ -2,6 +2,7 @@
 Welcome to my first ever public project! As someone who loves to edit on adobe after effects and code I figured why not make something that ties into both. There are scripts that already exist out there but I personally dont feel like paying for them when I can just make my own. Ill be constantly updating the file and trying to implement a ui!
 Comp tool kit 
 Features
+
 ⚓ Anchor
 
 3×3 Anchor Point Grid — click any position to snap the anchor point without moving the layer
@@ -16,7 +17,7 @@ Shapes — add Rectangle, Circle, Rounded Rect, or Line shape layers
 Text — add a Text layer or a centered Title layer
 Camera — add a Camera or a 3D Orbit Null
 
-⚡ Actions
+Actions
 
 Smart Precomp — precomp selected layers with a custom name
 Precomp + Open — precomp and immediately open the new comp
